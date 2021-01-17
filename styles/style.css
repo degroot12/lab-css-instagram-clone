@@ -20,6 +20,8 @@ body {
   display: flex;
   padding-top: 120px;
   justify-content: space-evenly;
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 .logo-text {
